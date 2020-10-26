@@ -1,4 +1,4 @@
-### Hi there, I'm Zhong Zhenyu 👋
+### 👋 Hi there, I'm Zhong Zhenyu
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=AlumiK.AlumiK)
 
