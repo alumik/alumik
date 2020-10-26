@@ -1,7 +1,5 @@
 ### 👋 Hi there, I'm Zhong Zhenyu
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=AlumiK.AlumiK)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlumiK&hide=Jupyter%20Notebook&layout=compact)
 
 ### 🖥️ Languages
