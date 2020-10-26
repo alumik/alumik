@@ -1,5 +1,7 @@
 ### 👋 Hi there, I'm Zhong Zhenyu
 
+<img align="right" width="150" src="https://www.svgrepo.com/show/235199/chip-ai.svg" />
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlumiK&hide=Jupyter%20Notebook&layout=compact)
 
 ### 🖥️ Languages
