@@ -2,7 +2,6 @@
 
 [![Hexo-Blog](https://img.shields.io/badge/Blog-pages.alumik.cn-EAEAEA?logo=hexo&logoColor=white&labelColor=0E83CD)](https://pages.alumik.cn/)
 [![Gmail-zhongzy6@gmail.com](https://img.shields.io/badge/Gmail-zhongzy6@gmail%2Ecom-EAEAEA?logo=steam&logoColor=white&labelColor=D14836)](mailto:zhongzy6@gmail.com)
-[![Steam-AlumiK](https://img.shields.io/badge/Steam-AlumiK-EAEAEA?logo=steam&logoColor=white&labelColor=1B2838)](https://steamcommunity.com/id/alumik/)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlumiK&hide=Jupyter%20Notebook&layout=compact)
 <img width="140" align="right" src="https://www.svgrepo.com/show/235199/chip-ai.svg" />
@@ -43,7 +42,6 @@
 ![CMake](https://img.shields.io/badge/-CMake-064F8C?logo=cmake&logoColor=white)
 ![Maven](https://img.shields.io/badge/-Maven-C71A36?logo=apache-maven&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/-Anaconda-42B029?logo=anaconda&logoColor=white)
-![Conda-Forge](https://img.shields.io/badge/-Conda--Forge-000000?logo=conda-forge&logoColor=white)
 ![Apache](https://img.shields.io/badge/-Apache-D22128?logo=apache&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
