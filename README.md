@@ -51,4 +51,4 @@
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=visual-studio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
 ![JetBrains](https://img.shields.io/badge/-JetBrains-000000?logo=jetbrains&logoColor=white)
-![VMware](https://img.shields.io/badge/-WMware-607078?logo=vmware&logoColor=white)
+![VMware](https://img.shields.io/badge/-VMware-607078?logo=vmware&logoColor=white)
