@@ -42,6 +42,7 @@
 ![Hexo](https://img.shields.io/badge/-Hexo-0E83CD?logo=hexo&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white)
 
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![CMake](https://img.shields.io/badge/-CMake-064F8C?logo=cmake&logoColor=white)
 ![Maven](https://img.shields.io/badge/-Maven-C71A36?logo=apache-maven&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/-Anaconda-42B029?logo=anaconda&logoColor=white)
