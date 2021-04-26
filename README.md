@@ -1,14 +1,14 @@
 ## 👋 Hi there, I'm Zhong Zhenyu
 
 [![Hexo-Blog](https://img.shields.io/badge/Blog-pages.alumik.cn-EAEAEA?logo=hexo&logoColor=white&labelColor=0E83CD)](https://pages.alumik.cn/)
-[![Gmail-zhongzy6@gmail.com](https://img.shields.io/badge/Gmail-zhongzy6@gmail%2Ecom-EAEAEA?logo=steam&logoColor=white&labelColor=D14836)](mailto:zhongzy6@gmail.com)
+[![Gmail-nczzy1997@gmail.com](https://img.shields.io/badge/Gmail-nczzy1997@gmail%2Ecom-EAEAEA?logo=steam&logoColor=white&labelColor=D14836)](mailto:nczzy1997@gmail.com)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlumiK&hide=Jupyter%20Notebook&layout=compact)
 <img width="140" align="right" src="https://www.svgrepo.com/show/235199/chip-ai.svg" />
 
 I am Zhong Zhenyu. I consider myself as a smart worker and determined team player. I am an experienced developer skilled in C++, Java, Python, Full Stack Development, High Performace Computing, Machine learning and its frameworks.
 
-🌱 What do I do?
+### 🌱 What do I do?
 
 ✔️ I have a Bachelor of Software Engineering focused in machine learning and high performance computing from Nankai University, Tianjin, China.
 
@@ -16,7 +16,7 @@ I am Zhong Zhenyu. I consider myself as a smart worker and determined team playe
 
 ✔️ My activities are much beyond my stream of education. I am involved in a lot of organizational works in college related to clubs, fests and workshops and helped in building many communities from scratch. Apart from this, I am a keen observer and always inquisitive to learn new things. I fit beautifully to the environment and add to the diversity of the team.
 
-### 💻 Languages
+### 💻 What languages do I use?
 
 ![C](https://img.shields.io/badge/-C-black?logo=c&logoColor=A8B9CC)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
@@ -31,7 +31,7 @@ I am Zhong Zhenyu. I consider myself as a smart worker and determined team playe
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=white)
 ![JSON](https://img.shields.io/badge/-JSON-000000?logo=json&logoColor=white)
 
-### ⚡ Technologies & ⚔️ Weapons
+### ⚡ What technologies & weapons do I have?
 
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-black?logo=linux)
