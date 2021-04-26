@@ -28,10 +28,12 @@ I am Zhong Zhenyu. I consider myself as a smart worker and determined team playe
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![Powershell](https://img.shields.io/badge/-Powershell-5391FE?logo=powershell&logoColor=white)
+![GNU Bash](https://img.shields.io/badge/-GNU%20Bash-4EAA25?logo=gnu-bash&logoColor=white)
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=white)
 ![JSON](https://img.shields.io/badge/-JSON-000000?logo=json&logoColor=white)
 
-### ⚡ What technologies & weapons do I have?
+### ⚡ What weapons do I have?
 
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-black?logo=linux)
@@ -47,6 +49,7 @@ I am Zhong Zhenyu. I consider myself as a smart worker and determined team playe
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
 ![WeChat](https://img.shields.io/badge/-WeChat-7BB32E?logo=wechat&logoColor=white)
+![React](https://img.shields.io/badge/-React-black?logo=react&logoColor=61DAFB)
 ![Vue.js](https://img.shields.io/badge/-Vue%2Ejs-4FC08D?logo=vue%2Ejs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node%2Ejs-339933?logo=node%2Ejs&logoColor=white)
 ![Hexo](https://img.shields.io/badge/-Hexo-0E83CD?logo=hexo&logoColor=white)
