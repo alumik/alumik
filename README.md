@@ -6,7 +6,7 @@
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AlumiK&hide=Jupyter%20Notebook&layout=compact)
 <img width="140" align="right" src="https://www.svgrepo.com/show/235199/chip-ai.svg" />
 
-I am Zhong Zhenyu. I consider myself as a smart worker and determined team player. I am an experienced researcher and developer skilled in **machine learning**, **AIOps**, **high performance computing**, **full stack development** and their frameworks.
+I am Zhong Zhenyu. I consider myself a smart worker and a determined team player. I am an experienced researcher and developer skilled in **machine learning**, **AIOps**, **high-performance computing**, and **full stack development**.
 
 ### 🌱 What do I do?
 
@@ -14,13 +14,13 @@ I am Zhong Zhenyu. I consider myself as a smart worker and determined team playe
 
 ✔️ I'm a fast learner looking for interesting research opportunities. I am waiting for a chance to build up my skills.
 
-✔️ My activities are much beyond my stream of education. I am involved in a lot of organizational works in college related to clubs, fests and workshops and helped in building many communities from scratch. Apart from this, I am a keen observer and always inquisitive to learn new things. I fit beautifully to the environment and add to the diversity of the team.
+✔️ My activities are much beyond my stream of education. I am involved in many organizational works in college related to clubs, fests, and workshops and helped build many communities from scratch. Apart from this, I am a keen observer and always inquisitive to learn new things. I fit beautifully into the environment and add to the team's diversity.
 
 ### 💻 What languages do I use?
 
 ![C](https://img.shields.io/badge/-C-black?logo=c&logoColor=A8B9CC)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
