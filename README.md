@@ -6,15 +6,11 @@
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AlumiK&hide=Jupyter%20Notebook&layout=compact)
 <img width="140" align="right" src="https://www.svgrepo.com/show/235199/chip-ai.svg" />
 
-I am Zhong Zhenyu. I consider myself a smart worker and a determined team player. I am an experienced researcher and developer skilled in **machine learning**, **AIOps**, **high-performance computing**, and **full stack development**.
+Meet Zhong Zhenyu, a skilled researcher and developer with extensive expertise in machine learning, AIOps, high-performance computing, and full stack development. I am a smart worker and a determined team player, always looking for interesting research opportunities to build upon my skills.
 
-### 🌱 What do I do?
+I graduated from Nankai University in Tianjin, China and is currently pursuing my PhD at the same school. I am a fast learner, always eager to expand my knowledge base. My talents extend beyond my field of study, as I actively participates in various college organizations, such as clubs, fests, and workshops, and has contributed to building several communities from scratch.
 
-✔️ I graduated from Nankai University, Tianjin, China, with a master's degree in Software Engineering.
-
-✔️ I'm a fast learner looking for interesting research opportunities. I am waiting for a chance to build up my skills.
-
-✔️ My activities are much beyond my stream of education. I am involved in many organizational works in college related to clubs, fests, and workshops and helped build many communities from scratch. Apart from this, I am a keen observer and always inquisitive to learn new things. I fit beautifully into the environment and add to the team's diversity.
+As a keen observer and curious learner, I adds to the team's diversity and thrives in a collaborative environment. If you are looking for a passionate researcher and developer, I am your guy!
 
 ### 💻 What languages do I use?
 
