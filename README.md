@@ -3,14 +3,13 @@
 [![Hexo-Blog](https://img.shields.io/badge/Blog-blog.alumik.cn-EAEAEA?logo=hexo&logoColor=white&labelColor=0E83CD)](https://blog.alumik.cn/)
 [![Gmail-nczzy1997@gmail.com](https://img.shields.io/badge/Gmail-nczzy1997@gmail%2Ecom-EAEAEA?logo=gmail&logoColor=white&labelColor=D14836)](mailto:nczzy1997@gmail.com)
 
+
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AlumiK&hide=Jupyter%20Notebook&layout=compact)
 <img width="140" align="right" src="https://www.svgrepo.com/show/235199/chip-ai.svg" />
 
 Meet Zhong Zhenyu, a skilled researcher and developer with extensive expertise in machine learning, AIOps, high-performance computing, and full stack development. I am a smart worker and a determined team player, always looking for interesting research opportunities to build upon my skills.
 
-I graduated from Nankai University in Tianjin, China and is currently pursuing my PhD at the same school. I am a fast learner, always eager to expand my knowledge base. My talents extend beyond my field of study, as I actively participates in various college organizations, such as clubs, fests, and workshops, and has contributed to building several communities from scratch.
-
-As a keen observer and curious learner, I adds to the team's diversity and thrives in a collaborative environment. If you are looking for a passionate researcher and developer, I am your guy!
+I graduated from Nankai University in Tianjin, China and is currently pursuing my PhD at the same school. I am a fast learner, always eager to expand my knowledge base. As a keen observer and curious learner, I adds to the team's diversity and thrives in a collaborative environment. If you are looking for a passionate researcher and developer, I am your guy!
 
 ### 💻 What languages do I use?
 
